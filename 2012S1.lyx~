@@ -24,9 +24,9 @@
 \setmainfont{Times New Roman}
 \setmonofont{Consolas}
 %\setmonofont{Courier New}
-\setCJKmainfont{Adobe 宋体 Std}
-\setCJKfamilyfont{song}{Adobe 宋体 Std}
-\setCJKfamilyfont{hei}{Adobe 黑体 Std}
+\setCJKmainfont{SimSun}
+\setCJKfamilyfont{song}{SimSun}
+\setCJKfamilyfont{hei}{SimHei}
 \newcommand\song{\CJKfamily{song}}
 \newcommand\hei{\CJKfamily{hei}}
 
